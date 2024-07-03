@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ultralytics = "*"
+pyyaml = "*"
+requests = "*"
+torch = "*"
+torchvision = "*"
+albumentations = "*"
+scikit-learn = "*"
+opencv-python = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"

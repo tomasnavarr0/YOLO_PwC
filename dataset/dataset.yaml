@@ -1,0 +1,5 @@
+
+train: /kaggle/input/dataset-sr/train/images
+val: /kaggle/input/dataset-sr/val/images
+nc: 3
+names: ["work_paper", "graph_paper", "cardboard"]
