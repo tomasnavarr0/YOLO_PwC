@@ -12,6 +12,8 @@ torchvision = "*"
 albumentations = "*"
 scikit-learn = "*"
 opencv-python = "*"
+labelme = "*"
+labelme2yolo = "*"
 
 [dev-packages]
 ipykernel = "*"
